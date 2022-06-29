@@ -1,0 +1,6 @@
+bin/
+target~/
+src-adpgenerated/
+.scannerwork/
+com.microej.example.hoka.Main/
+wifi/

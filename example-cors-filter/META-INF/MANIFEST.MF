@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Application-Id: webserver
+Application-Version: 0.1.0
+Application-PrintableName: webserver
+Application-Description: Description of webserver
